@@ -10,7 +10,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 MGLSI News — Tous droits réservés</p>
+    <p>&copy; 2026 MGLSI News — Tous droits réservés</p>
 </footer>
 
 <script>
